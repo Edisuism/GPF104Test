@@ -1,3 +1,1 @@
-Ho word
-
-enjoy this conflict
+Hello world
